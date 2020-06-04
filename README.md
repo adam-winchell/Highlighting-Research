@@ -3,7 +3,7 @@ Supported by NSF  EHR-1631428
 
 The following text outlines each of the data files contained in this repository.
 
-experiment_version.csv has subjects as rows and the column contains the experiment version the subject was in, the value 0 is experiment condition A and the value 1 is experiment condition B as detailed in the paper.
+experiment_version.csv has subjects as rows and the column contains the experiment version the subject was in, the value 0 is experiment condition A and the value 1 is experiment condition B as detailed in the paper (TODO give reference to CogSci paper).
 
 fill_in_the_blank.csv has subjects as rows and each column contains whether the subject answered the question correctly. The column number corresponds with the question number. The value 1 means the subject answered the question correctly.
 
